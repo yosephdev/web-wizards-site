@@ -52,9 +52,9 @@ class Footer extends Component {
                   </div>
                   <div class="last-w3ls-contact">
                     <p>
-                      Reisterstown Shopping Center,
+                      1705 East West Hwy,Silver Spring
                       <br />
-                      MD 21136, United States
+                      MD 20910, United States
                     </p>
                   </div>
                   <div class="last-w3ls-contact my-2">
@@ -72,7 +72,7 @@ class Footer extends Component {
             </div>
             <p class="copy-right-grids text-li text-center my-sm-4 my-4">
               © 2020 Webhus. All Rights Reserved | Design by
-              <a href="http://zarema.com/"> Webhus </a>
+              <a href="http://webhus.com/"> Webhus </a>
             </p>
             <div class="w3ls-footer text-center mt-4">
               <ul class="list-unstyled w3ls-icons">
