@@ -21,7 +21,7 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h2 class="movetxt agile-title text-capitalize">
-                          We design, build and scale epic mobile, web and
+                          We design and build epic mobile, web and
                           desktop apps{" "}
                         </h2>
                         <p>We are ready to build your product</p>
