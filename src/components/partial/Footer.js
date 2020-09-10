@@ -45,7 +45,7 @@ class Footer extends Component {
                   <hr />
                   <div class="last-w3ls-contact">
                     <p>
-                      <a href="mailto:example@email.com">info@webhus.com</a>
+                      <a href="mailto:example@email.com">info@webhus.io</a>
                     </p>
                   </div>
                   <div class="last-w3ls-contact my-2">
@@ -73,7 +73,7 @@ class Footer extends Component {
             </div>
             <p class="copy-right-grids text-li text-center my-sm-4 my-4">
               © 2020 Webhus. All Rights Reserved | Design by
-              <a href="http://webhus.com/"> Webhus </a>
+              <a href="http://webhus.io/"> Webhus </a>
             </p>
             <div class="w3ls-footer text-center mt-4">
               <ul class="list-unstyled w3ls-icons">
