@@ -53,7 +53,7 @@ class About extends Component{
                     <p class="mt-2 text-left">
                       We take pride in offering
                       customized services that takes your business or app to the next
-                      level. We manage to deliver professional work in a timely
+                      level. We strive to deliver professional work in a timely
                       manner by balancing our actions to address the needs of
                       our clients and of our team.
                     </p>
