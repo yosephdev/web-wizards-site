@@ -243,10 +243,10 @@ class Home extends Component {
                   <div class="menu-item mt-4">
                     <div class="row border-dot no-gutters">
                       <div class="col-8 menu-item-name">
-                        <h6>Landing Page Design</h6>
+                        <h6>Landing Page</h6>
                       </div>
                       <div class="col-4 menu-item-price text-right">
-                        <h6>$500–$800</h6>
+                        <h6>$500-$800</h6>
                       </div>
                     </div>
                   </div>
