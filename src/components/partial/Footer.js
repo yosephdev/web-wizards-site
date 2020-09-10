@@ -17,7 +17,7 @@ class Footer extends Component {
                   goals.
                 </p>
                 <p>
-                  We design, build and scale epic mobile, web and desktop apps
+                  We design and build epic mobile, web and desktop apps
                   that can start driving purchases, quote requests, phone calls,
                   and more.
                 </p>
