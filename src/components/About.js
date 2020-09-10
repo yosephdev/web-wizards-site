@@ -52,7 +52,7 @@ class About extends Component{
                     </h4>
                     <p class="mt-2 text-left">
                       We take pride in offering
-                      customized services that takes your business or apps to the next
+                      customized services that takes your business or app to the next
                       level. We manage to deliver professional work in a timely
                       manner by balancing our actions to address the needs of
                       our clients and of our team.
