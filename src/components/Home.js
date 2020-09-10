@@ -325,7 +325,7 @@ class Home extends Component {
                 <span>CALL US TO BOOK AN APPOINTMENT</span>Our team will call
                 back immediately and Book the Appointment
               </h3>
-              <h4 class="tittle my-2">+46 703 566 108</h4>
+              <h4 class="tittle my-2">+46703566108</h4>
 
               <div class="read-more mx-auto m-0 text-center">
                 <Link to="/contact" class="read-more scroll btn">
