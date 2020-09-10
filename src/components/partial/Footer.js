@@ -12,11 +12,12 @@ class Footer extends Component {
                   <a href="index.html">Webhus</a>
                 </h2>
                 <p class="my-3">
-                  We aim to provide small businesses with a simple, yet
-                  effective website specific to their brand and goals.
+                  We are a group of dedicated software engineers who loves to
+                  build amazing apps from scratch specific to your brand and
+                  goals.
                 </p>
                 <p>
-                  We provide your company with a credible, user-friendly site
+                  We design, build and scale epic mobile, web and desktop apps
                   that can start driving purchases, quote requests, phone calls,
                   and more.
                 </p>
@@ -48,7 +49,7 @@ class Footer extends Component {
                     </p>
                   </div>
                   <div class="last-w3ls-contact my-2">
-                    <p>+ 1 410-404-0000</p>
+                    <p>USA</p>
                   </div>
                   <div class="last-w3ls-contact">
                     <p>
@@ -58,7 +59,7 @@ class Footer extends Component {
                     </p>
                   </div>
                   <div class="last-w3ls-contact my-2">
-                    <p>+ 46 703-567-108</p>
+                    <p>EUROPE</p>
                   </div>
                   <div class="last-w3ls-contact">
                     <p>

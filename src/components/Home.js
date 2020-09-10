@@ -21,12 +21,10 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h2 class="movetxt agile-title text-capitalize">
-                          Website Design & Development Services{" "}
+                          We design, build and scale epic mobile, web and
+                          desktop apps{" "}
                         </h2>
-                        <p>
-                          One stop shop for your online needs, where we approach
-                          your project as one of our own
-                        </p>
+                        <p>We are ready to build your product</p>
 
                         <Link to="/contact" class="btn">
                           Get started
@@ -124,11 +122,11 @@ class Home extends Component {
                   class="img-fluid"
                 />
                 <p class="px-lg-5">
-                  Webhus is a full-service web development agency, offering both
-                  web design and web development services to small businesses
-                  from every corner of the world. We are 6 energetic web
-                  designers, programmers and project managers ready to design
-                  and develop your website.
+                  Webhus is a full-service software development agency, offering
+                  UX/UI design, mobile development, desktop development and web
+                  development services to clients from every corner of the
+                  world. We are 8 energetic UX/UI designers, programmers and
+                  project managers ready to build your product.
                 </p>
 
                 <Link
@@ -159,7 +157,7 @@ class Home extends Component {
                     />
                   </Link>
                   <div class="ab-info-con">
-                    <h4> Web Design</h4>
+                    <h4> UX/UI Design</h4>
                     <Link
                       to="/single"
                       class="read-more two btn m-0 px-3"
@@ -180,7 +178,7 @@ class Home extends Component {
                     />
                   </Link>
                   <div class="ab-info-con">
-                    <h4>Web Development</h4>
+                    <h4>Mobile, Desktop or Web Development</h4>
                     <a href="single.html" class="read-more two btn m-0 px-3">
                       <span class="fa fa-arrow-circle-o-right"> </span>
                     </a>
@@ -202,7 +200,7 @@ class Home extends Component {
             <div class="row pricing-grids">
               <div class="col-lg-6  mb-lg-0 mb-5">
                 <div class="padding">
-                  <h3>WEB DESIGN PRICING</h3>
+                  <h3>UX/UI DESIGN</h3>
                   {/* <!-- Item starts --> */}
                   <div class="menu-item">
                     <div class="row border-dot no-gutters">
@@ -260,7 +258,7 @@ class Home extends Component {
               </div>
               <div class="col-lg-6  mb-lg-0 mb-5">
                 <div class="padding">
-                  <h3>WEB DEVELOPMENT PRICING</h3>
+                  <h3>MOBILE, DESKTOP, WEB DEVELOPMENT</h3>
                   {/* <!-- Item starts --> */}
                   <div class="menu-item">
                     <div class="row border-dot no-gutters">
@@ -327,7 +325,7 @@ class Home extends Component {
                 <span>CALL US TO BOOK AN APPOINTMENT</span>Our team will call
                 back immediately and Book the Appointment
               </h3>
-              <h4 class="tittle my-2">123456789 </h4>
+              <h4 class="tittle my-2">+46 703 566 108</h4>
 
               <div class="read-more mx-auto m-0 text-center">
                 <Link to="/contact" class="read-more scroll btn">
@@ -347,8 +345,8 @@ class Home extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    When you are looking for exceptional web design, superior
-                    web content and web maintenance for your website, Webhus is
+                    When you are looking for exceptional UX/UI design, superior
+                    web/app content and affordable maintenance for your app/website, Webhus is
                     just the option for you. We have received incredible
                     feedback upon the launch of our new website.
                   </p>
@@ -412,12 +410,13 @@ class Home extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    This web agency is really in position to handle all kind of
-                    web development services. Great to have you and honestly say
-                    the best work I got with their excellent abilities. I
-                    wouldn’t hesitate in recommending them.
+                    This software development agency is really in position to
+                    handle all kinds of software development services. Great to
+                    have you and honestly say the best work I got with their
+                    excellent abilities. I wouldn’t hesitate in recommending
+                    them.
                   </p>
-                  <h3 class="mt-md-4 mt-3">Lakin Andersson</h3>
+                  <h3 class="mt-md-4 mt-3">Lakin Anderson</h3>
 
                   <div class="test-img text-center mb-3">
                     <img

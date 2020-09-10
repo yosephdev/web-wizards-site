@@ -24,24 +24,20 @@ class Services extends Component {
                 <img src="assets/images/sp1.jpg" class="img-fluid" alt="" />
               </div>
               <div class="col-lg-3 col-md-6 bg-grid-clr">
-                <h4 class="mt-md-0 my-2">Website Design</h4>
+                <h4 class="mt-md-0 my-2">UX/UI Design</h4>
                 <p class="">
-                  Our website design services provide your business with a
-                  website customized to your business and goals. We also ensure
-                  your site offers the best user experience possible, helping
-                  your company maximize its conversions and revenue.
+                  We design your digital product from top to bottom and make sure it is
+                  perfectly fit to the market. 
                 </p>
               </div>
               <div class="col-lg-3 col-md-6 pr-0 pl-md-3 pl-0 mt-lg-0 mt-4">
                 <img src="assets/images/sp2.jpg" class="img-fluid" alt="" />
               </div>
               <div class="col-lg-3 col-md-6 bg-grid-clr mt-lg-0 mt-md-4">
-                <h4 class="mt-md-0 my-2">Website development</h4>
+                <h4 class="mt-md-0 my-2">Web development</h4>
                 <p class="">
-                  Our website development services deliver a complete solution
-                  to your business that is optimized for high performance with
-                  quick loading times, scalable and responsive and able to
-                  handle any increases in visitor traffic.
+                  We build quality, robust, and scalable web apps. We’ll take
+                  care of even the most complex projects, trust us!
                 </p>
               </div>
 
@@ -49,31 +45,28 @@ class Services extends Component {
                 <img src="assets/images/sp3.jpg" class="img-fluid" alt="" />
               </div>
               <div class="col-lg-3 col-md-6 bg-grid-clr mt-lg-5 mt-md-4">
-                <h4 class="mt-md-0 my-2">WEBSITE REDESIGN</h4>
+                <h4 class="mt-md-0 my-2">Mobile Development</h4>
                 <p class="">
-                  Our website redesign services provide your business with a
-                  revamped, modern website tailored to your company. We conduct
-                  an audit of your site before developing a redesign project
-                  plan that not only modernizes your site but also improves your
-                  UX.
+                  Maximize profits and grow your business by developing
+                  top-notch mobile products adjusted to market needs, user
+                  experience, and the project’s vision.
                 </p>
               </div>
               <div class="col-lg-3 col-md-6 pr-0 pl-md-3 pl-0 mt-lg-5 mt-4">
                 <img src="assets/images/sp4.jpg" class="img-fluid" alt="" />
               </div>
               <div class="col-lg-3 col-md-6 bg-grid-clr mt-lg-5 mt-md-4">
-                <h4 class="mt-md-0 my-2">LANDING PAGE DESIGN</h4>
+                <h4 class="mt-md-0 my-2">DESKTOP DEVELOPMENT</h4>
                 <p class="">
-                  Our landing page design services provide your business with a modern,
-                  performance-driven landing page. We research your market,
-                  learn your business, and test your new landing pages. Our
-                  drive results in a custom landing page with affordable price.
+                  We build cross-platform desktop applications with JavaScript,
+                  HTML, and CSS for Mac, Linux or Windows.
                 </p>
               </div>
             </div>
           </div>
         </section>
 
+      
         <section class="testimonials py-5" id="testimonials">
           <div class="container py-md-5">
             <h3 class="heading text-center mb-3 mb-sm-5">Client Reviews</h3>
@@ -81,8 +74,8 @@ class Services extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    When you are looking for exceptional web design, superior
-                    web content and web maintenance for your website, Webhus is
+                    When you are looking for exceptional UX/UI design, superior
+                    web/app content and affordable maintenance for your app/website, Webhus is
                     just the option for you. We have received incredible
                     feedback upon the launch of our new website.
                   </p>
@@ -146,12 +139,13 @@ class Services extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    This web agency is really in position to handle all kind of
-                    web development services. Great to have you and honestly say
-                    the best work I got with their excellent abilities. I
-                    wouldn’t hesitate in recommending them.
+                    This software development agency is really in position to
+                    handle all kinds of software development services. Great to
+                    have you and honestly say the best work I got with their
+                    excellent abilities. I wouldn’t hesitate in recommending
+                    them.
                   </p>
-                  <h3 class="mt-md-4 mt-3">Lakin Andersson</h3>
+                  <h3 class="mt-md-4 mt-3">Lakin Anderson</h3>
 
                   <div class="test-img text-center mb-3">
                     <img
@@ -178,7 +172,8 @@ class Services extends Component {
               </div>
             </div>
           </div>
-        </section>
+        </section>               
+        
       </div>
     );
   }

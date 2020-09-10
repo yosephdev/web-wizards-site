@@ -37,10 +37,8 @@ class About extends Component{
                       and affordable pricing!
                     </h4>
                     <p class="mt-2 text-left">
-                      Our mission is to enable small businesses to have a
-                      five-page web presence. We aim to provide affordable web
-                      design and development services to small business owners
-                      from all over the world.
+                      Our mission is to provide affordable software development services to clients from all over the
+                      world.
                     </p>
                   </div>
                 </div>
@@ -53,13 +51,11 @@ class About extends Component{
                       and honest communication
                     </h4>
                     <p class="mt-2 text-left">
-                      Our goal is to enhance the businesses of our partners
-                      through a modern, professional small business website. We
-                      take pride in offering customized services that take your
-                      business to the next level. We manage to deliver
-                      professional work in a timely manner by balancing our
-                      actions to address the needs of our clients and of our
-                      team.
+                      We take pride in offering
+                      customized services that takes your business or apps to the next
+                      level. We manage to deliver professional work in a timely
+                      manner by balancing our actions to address the needs of
+                      our clients and of our team.
                     </p>
                   </div>
                   <div class="col-md-5 content-w3pvt-img mt-lg-0 mt-3">
@@ -80,15 +76,15 @@ class About extends Component{
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-6 my-3 number-wthree-info">
                       <h5>20</h5>
-                      <h6 class="pt-2">Web sites</h6>
+                      <h6 class="pt-2">Web apps</h6>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-6 my-3 number-wthree-info">
                       <h5>15</h5>
-                      <h6 class="pt-2">Web designs</h6>
+                      <h6 class="pt-2">UX/UI designs</h6>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-6 my-3 number-wthree-info">
                       <h5>5</h5>
-                      <h6 class="pt-2">Landing page designs</h6>
+                      <h6 class="pt-2">Mobile apps</h6>
                     </div>
                   </div>
                 </div>
@@ -111,10 +107,7 @@ class About extends Component{
                     </div>
                     <div class="team-info">
                       <h3 class="mt-md-4 mt-3">Deni Rasenberg</h3>
-                      <p>
-                        Deni has been working as a web designer since
-                        2018.
-                      </p>
+                      <p>Deni has been working as a UX/UI designer since 2015.</p>
                       <ul class="list-unstyled team-icons mt-4">
                         <li>
                           <a href="#" class="t-icon">
@@ -146,7 +139,7 @@ class About extends Component{
                     <div class="team-info">
                       <h3 class="mt-md-4 mt-3">Jack Kniess</h3>
                       <p>
-                        Jack has been working as a web developer since 2017.
+                        Jack has been working as a web app developer since 2012.
                       </p>
                       <ul class="list-unstyled team-icons mt-4">
                         <li>
@@ -178,8 +171,7 @@ class About extends Component{
                     <div class="team-info">
                       <h3 class="mt-md-4 mt-3">Eric Marko</h3>
                       <p>
-                        Eric has been working as a web developer since the
-                        2018.
+                        Eric has been working as a mobile app developer since the 2016.
                       </p>
                       <ul class="list-unstyled team-icons mt-4">
                         <li>
