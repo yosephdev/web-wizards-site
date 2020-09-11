@@ -21,15 +21,15 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h2 class="movetxt agile-title text-capitalize">
-                          We design and build epic mobile, web and desktop apps{" "}
+                          We build quality, robust, and scalable web apps{" "}
                         </h2>
                         <p>
-                          We’re Webhus – experts always ready to build your
-                          product
+                          We’re Webhus – experts always ready to build awesome
+                          web apps
                         </p>
 
                         <Link to="/contact" class="btn">
-                          Get started
+                          Get appointment
                         </Link>
                       </div>
                     </div>
@@ -81,11 +81,11 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h4 class="movetxt agile-title text-capitalize">
-                          We build quality, robust, and scalable web apps{" "}
+                          We design and build epic mobile, web and desktop apps{" "}
                         </h4>
                         <p>
-                          We’re Webhus – experts always ready to build awesome
-                          web apps
+                          We’re Webhus – experts always ready to build your
+                          product
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
