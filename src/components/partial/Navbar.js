@@ -9,10 +9,7 @@ class Navbar extends Component {
             <div class="header-agile">
               <h1>
                 <Link to="/" class="navbar-brand logo">
-                  <span
-                    class="fa fa-lock"
-                    aria-hidden="true"
-                  ></span>{" "}
+                  
                   Webhus{" "}
                   <span class="fa fa-user-secret" aria-hidden="true"></span>
                 </Link>

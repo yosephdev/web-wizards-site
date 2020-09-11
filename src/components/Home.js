@@ -10,9 +10,9 @@ class Home extends Component {
         <div class="banner_w3lspvt" id="home">
           <div class="csslider infinity" id="slider1">
             <input type="radio" name="slides" checked="checked" id="slides_1" />
-            <input type="radio" name="slides" id="slides_2" />
-            <input type="radio" name="slides" id="slides_3" />
-            <input type="radio" name="slides" id="slides_4" />
+            <input type="radio" name="slides" checked="checked" id="slides_2" />
+            <input type="radio" name="slides" checked="checked" id="slides_3" />
+            <input type="radio" name="slides" checked="checked" id="slides_4" />
 
             <ul class="banner_slide_bg">
               <li>
@@ -21,8 +21,7 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h2 class="movetxt agile-title text-capitalize">
-                          We design and build epic mobile, web and
-                          desktop apps{" "}
+                          We design and build epic mobile, web and desktop apps{" "}
                         </h2>
                         <p>We are ready to build your product</p>
 
@@ -40,12 +39,12 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h4 class="movetxt agile-title text-capitalize">
-                          We Help to grow your hair as well beard{" "}
+                          We build smart, well performing, and usable mobile
+                          apps{" "}
                         </h4>
                         <p>
-                          Lorem Ipsum is simply dummy text of the printing and
-                          typesetting industry. It has survived not only five
-                          centuries.
+                          With our help, you can build a scalable mobile app
+                          that will help your business grow
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
@@ -61,12 +60,13 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h2 class="movetxt agile-title text-capitalize">
-                          We Design and Create Hair Style Latest
+                          We build amazing desktop apps with well-known web
+                          technologies{" "}
                         </h2>
                         <p>
-                          Lorem Ipsum is simply dummy text of the printing and
-                          typesetting industry. It has survived not only five
-                          centuries.
+                          Get standard stand-alone applications as well as
+                          desktop apps, which control external devices like
+                          cameras, TV and many other devices.
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
@@ -82,12 +82,11 @@ class Home extends Component {
                     <div class="banner-text">
                       <div class="container">
                         <h4 class="movetxt agile-title text-capitalize">
-                          We design latest trending haircuts{" "}
+                          We build quality, robust, and scalable web apps{" "}
                         </h4>
                         <p>
-                          Lorem Ipsum is simply dummy text of the printing and
-                          typesetting industry. It has survived not only five
-                          centuries.
+                          We’re Webhus – always ready to build awesome web apps
+                          and solve client problems.
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
@@ -125,8 +124,8 @@ class Home extends Component {
                   Webhus is a full-service software development agency, offering
                   UX/UI design, mobile development, desktop development and web
                   development services to clients from every corner of the
-                  world. We are 8 energetic UX/UI designers, programmers and
-                  project managers ready to build your product.
+                  world. We are 8 energetic designers, programmers and project
+                  managers ready to build your product.
                 </p>
 
                 <Link
@@ -149,7 +148,7 @@ class Home extends Component {
             <div class="row ab-info">
               <div class="col-md-6 ab-content ab-content1">
                 <div class="ab-content-inner">
-                  <Link to="/single">
+                  <Link to="/Services">
                     <img
                       src="assets/images/services2.jpg"
                       alt="news image"
@@ -159,7 +158,7 @@ class Home extends Component {
                   <div class="ab-info-con">
                     <h4> UX/UI Design</h4>
                     <Link
-                      to="/single"
+                      to="/Services"
                       class="read-more two btn m-0 px-3"
                       role="button"
                     >
@@ -170,7 +169,7 @@ class Home extends Component {
               </div>
               <div class="col-md-6 ab-content ab-content1">
                 <div class="ab-content-inner">
-                  <Link to="/single">
+                  <Link to="/Services">
                     <img
                       src="assets/images/services1.jpg"
                       alt="news image"
@@ -179,7 +178,7 @@ class Home extends Component {
                   </Link>
                   <div class="ab-info-con">
                     <h4>Mobile, Desktop or Web Development</h4>
-                    <a href="single.html" class="read-more two btn m-0 px-3">
+                    <a href="Services" class="read-more two btn m-0 px-3">
                       <span class="fa fa-arrow-circle-o-right"> </span>
                     </a>
                   </div>
@@ -345,10 +344,11 @@ class Home extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    When you are looking for exceptional UX/UI design, superior
-                    web/app content and affordable maintenance for your app/website, Webhus is
-                    just the option for you. We have received incredible
-                    feedback upon the launch of our new website.
+                    When you are looking for exceptional digital product design,
+                    superior web/app content and affordable maintenance for your
+                    app/website, Webhus is just the option for you. We have
+                    received incredible feedback upon the launch of our new
+                    website.
                   </p>
                   <h3 class="mt-md-4 mt-3">Alexander Jacob</h3>
 
@@ -469,7 +469,6 @@ class Home extends Component {
                     <span class="fa fa-paper-plane" aria-hidden="true"></span>
                   </button>
                 </form>
-                <p>we never share your email with anyone else</p>
               </div>
             </div>
           </div>

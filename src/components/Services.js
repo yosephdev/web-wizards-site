@@ -26,8 +26,8 @@ class Services extends Component {
               <div class="col-lg-3 col-md-6 bg-grid-clr">
                 <h4 class="mt-md-0 my-2">UX/UI Design</h4>
                 <p class="">
-                  We design your digital product from top to bottom and make sure it is
-                  perfectly fit to the market. 
+                  We design your digital product from top to bottom and make
+                  sure it is perfectly fit to the market.
                 </p>
               </div>
               <div class="col-lg-3 col-md-6 pr-0 pl-md-3 pl-0 mt-lg-0 mt-4">
@@ -66,7 +66,6 @@ class Services extends Component {
           </div>
         </section>
 
-      
         <section class="testimonials py-5" id="testimonials">
           <div class="container py-md-5">
             <h3 class="heading text-center mb-3 mb-sm-5">Client Reviews</h3>
@@ -74,10 +73,10 @@ class Services extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    When you are looking for exceptional UX/UI design, superior
-                    web/app content and affordable maintenance for your app/website, Webhus is
-                    just the option for you. We have received incredible
-                    feedback upon the launch of our new website.
+                    If you are looking for an exceptional digital product design,
+                    superior web content and amazing app, Webhus is the right option for you. We have
+                    received incredible feedback upon the launch of our new
+                    website.
                   </p>
                   <h3 class="mt-md-4 mt-3">Alexander Jacob</h3>
 
@@ -139,7 +138,7 @@ class Services extends Component {
               <div class="col-md-4 test-grid text-left px-lg-3">
                 <div class="test-info">
                   <p>
-                    This software development agency is really in position to
+                    This agency is in a position to
                     handle all kinds of software development services. Great to
                     have you and honestly say the best work I got with their
                     excellent abilities. I wouldn’t hesitate in recommending
@@ -172,8 +171,7 @@ class Services extends Component {
               </div>
             </div>
           </div>
-        </section>               
-        
+        </section>
       </div>
     );
   }
