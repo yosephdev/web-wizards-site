@@ -24,7 +24,7 @@ class Contact extends Component{
                   <div class="title-desc text-center px-lg-5">
                     <p class="px-lg-5 sub-wthree">
                       Whether you are looking for a reliable partner for your
-                      web development agency or you need a smashing website for
+                      software development agency or you need a smashing app or website for
                       your business or you’re simply curious about our skills,
                       just drop us a line. A reply is guaranteed!
                     </p>
