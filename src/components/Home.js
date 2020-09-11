@@ -65,7 +65,7 @@ class Home extends Component {
                         </h2>
                         <p>
                           Get desktop apps which control external devices like
-                          cameras, TV and many other devices.
+                          cameras, TV and many other devices
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
@@ -85,7 +85,7 @@ class Home extends Component {
                         </h4>
                         <p>
                           We’re Webhus – always ready to build awesome web apps
-                          and solve client problems.
+                          and solve client problems
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
