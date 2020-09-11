@@ -23,7 +23,10 @@ class Home extends Component {
                         <h2 class="movetxt agile-title text-capitalize">
                           We design and build epic mobile, web and desktop apps{" "}
                         </h2>
-                        <p>We are ready to build your product</p>
+                        <p>
+                          We’re Webhus – experts always ready to build your
+                          product
+                        </p>
 
                         <Link to="/contact" class="btn">
                           Get started
@@ -63,9 +66,7 @@ class Home extends Component {
                           We build amazing desktop apps with well-known web
                           technologies{" "}
                         </h2>
-                        <p>
-                          Get desktop apps which control external devices 
-                        </p>
+                        <p>Get desktop apps which control external devices</p>
                         <Link to="/contact" class="btn">
                           Get appointment
                         </Link>
@@ -83,7 +84,8 @@ class Home extends Component {
                           We build quality, robust, and scalable web apps{" "}
                         </h4>
                         <p>
-                          We’re Webhus – experts always ready to build awesome web apps                        
+                          We’re Webhus – experts always ready to build awesome
+                          web apps
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
