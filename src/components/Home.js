@@ -83,8 +83,7 @@ class Home extends Component {
                           We build quality, robust, and scalable web apps{" "}
                         </h4>
                         <p>
-                          We’re Webhus – always ready to build awesome web apps
-                          and solve client problems
+                          We’re Webhus – experts always ready to build awesome web apps                        
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
