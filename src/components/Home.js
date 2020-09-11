@@ -64,8 +64,7 @@ class Home extends Component {
                           technologies{" "}
                         </h2>
                         <p>
-                          Get standard stand-alone applications as well as
-                          desktop apps, which control external devices like
+                          Get standard desktop apps, which control external devices like
                           cameras, TV and many other devices.
                         </p>
                         <Link to="/contact" class="btn">
