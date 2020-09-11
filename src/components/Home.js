@@ -64,8 +64,7 @@ class Home extends Component {
                           technologies{" "}
                         </h2>
                         <p>
-                          Get desktop apps which control external devices like
-                          cameras, TV and many other devices
+                          Get desktop apps which control external devices 
                         </p>
                         <Link to="/contact" class="btn">
                           Get appointment
