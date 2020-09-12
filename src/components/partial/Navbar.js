@@ -32,7 +32,7 @@ class Navbar extends Component {
                   <li class="mr-lg-3 mr-2 p-0">
                     {/* <!-- First Tier Drop Down --> */}
                     <label for="drop-2" class="toggle">
-                      Dropdown{" "}
+                      Services{" "}
                       <span class="fa fa-angle-down" aria-hidden="true"></span>{" "}
                     </label>
                     <a href="#">
@@ -45,7 +45,7 @@ class Navbar extends Component {
                         <Link to="/services">Services</Link>
                       </li>
                       <li>
-                        <Link to="/single">Single</Link>
+                        <Link to="/single">Blog</Link>
                       </li>
                     </ul>
                   </li>
