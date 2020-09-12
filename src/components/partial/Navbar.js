@@ -36,7 +36,7 @@ class Navbar extends Component {
                       <span class="fa fa-angle-down" aria-hidden="true"></span>{" "}
                     </label>
                     <a href="#">
-                      Dropdown{" "}
+                      Services{" "}
                       <span class="fa fa-angle-down" aria-hidden="true"></span>
                     </a>
                     <input type="checkbox" id="drop-2" />
