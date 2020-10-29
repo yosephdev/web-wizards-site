@@ -84,7 +84,7 @@ class Home extends Component {
                           We design and build epic mobile, web and desktop apps{" "}
                         </h4>
                         <p>
-                          We’re Webhus – experts always ready to build your
+                          We’re Webhuset – experts always ready to build your
                           product
                         </p>
                         <Link to="/contact" class="btn">
