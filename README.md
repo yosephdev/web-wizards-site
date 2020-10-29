@@ -1,12 +1,10 @@
-This project is available on the Live Server with [Check Project Website]().</br>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Sample Look of the Website
 
 </br>
 </br>
-<img src="2020-07-09_21-36-56.png">
+<img src="assets/images/image-webhus-portfolio.jpg">
 </br>
 </br>
 
