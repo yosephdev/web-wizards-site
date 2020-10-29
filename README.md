@@ -1,4 +1,4 @@
-This project is available on the Live Server with [Check Project Website]().</br>
+This project is available on the Live Server with [Check Project Website](https://webhuset.netlify.app/).</br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 </br>
 </br>
-<img src="2020-07-09_21-36-56.png">
+<img src="assets/image-webhus-portfolio.jpg">
 </br>
 </br>
 
