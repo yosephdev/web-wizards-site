@@ -24,7 +24,7 @@ class Home extends Component {
                           We build quality, robust, and scalable web apps{" "}
                         </h2>
                         <p>
-                          We’re Webhus – experts always ready to build awesome
+                          We’re Webhuset – experts always ready to build awesome
                           web apps
                         </p>
 
@@ -120,7 +120,7 @@ class Home extends Component {
                   class="img-fluid"
                 />
                 <p class="px-lg-5">
-                  Webhus is a full-service software development agency, offering
+                  Webhuset is a full-service software development agency, offering
                   UX/UI design, mobile development, desktop development and web
                   development services to clients from every corner of the
                   world. We are 8 energetic designers, programmers and project
@@ -323,7 +323,7 @@ class Home extends Component {
                 <span>CALL US TO BOOK AN APPOINTMENT</span>Our team will call
                 back immediately and Book the Appointment
               </h3>
-              <h4 class="tittle my-2">+46703566108</h4>
+              <h4 class="tittle my-2">+46700000000</h4>
 
               <div class="read-more mx-auto m-0 text-center">
                 <Link to="/contact" class="read-more scroll btn">

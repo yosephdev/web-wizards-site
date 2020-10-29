@@ -9,7 +9,7 @@ class Footer extends Component {
             <div class="row footer-top-inner-w3ls">
               <div class="col-lg-4 col-md-6 footer-top ">
                 <h2>
-                  <a href="index.html">Webhus</a>
+                  <a href="index.html">Webhuset</a>
                 </h2>
                 <p class="my-3">
                   We are a group of dedicated software engineers who loves to
@@ -45,7 +45,7 @@ class Footer extends Component {
                   <hr />
                   <div class="last-w3ls-contact">
                     <p>
-                      <a href="mailto:example@email.com">info@webhus.io</a>
+                      <a href="mailto:example@email.com">info@webhuset.io</a>
                     </p>
                   </div>
                   <div class="last-w3ls-contact my-2">
@@ -72,8 +72,8 @@ class Footer extends Component {
               </div>
             </div>
             <p class="copy-right-grids text-li text-center my-sm-4 my-4">
-              © 2020 Webhus. All Rights Reserved | Design by
-              <a href="http://webhus.io/"> Webhus </a>
+              © 2020 Webhuset. All Rights Reserved | Design by
+              <a href="http://webhuset.io/"> Webhuset </a>
             </p>
             <div class="w3ls-footer text-center mt-4">
               <ul class="list-unstyled w3ls-icons">

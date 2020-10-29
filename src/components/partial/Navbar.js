@@ -10,7 +10,7 @@ class Navbar extends Component {
               <h1>
                 <Link to="/" class="navbar-brand logo">
                   
-                  Webhus{" "}
+                  Webhuset{" "}
                   <span class="fa fa-user-secret" aria-hidden="true"></span>
                 </Link>
               </h1>
