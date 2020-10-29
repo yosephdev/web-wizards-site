@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 </br>
 </br>
-<img src="assets/image-webhus-portfolio.jpg">
+<img src="image-webhus-portfolio.jpg">
 </br>
 </br>
 
