@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 </br>
 </br>
-<img src="public/assets/images/image-webhus-portfolio.jpg">
+<img src="public/assets/images/image-webhus-portfolio.png">
 </br>
 </br>
 
