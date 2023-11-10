@@ -1,67 +1,49 @@
-import React, { Component } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
-class Navbar extends Component {
-  render() {
-    return (
-      <header>
-        <div class="container">
-          <div class="header d-lg-flex justify-content-between align-items-center">
-            <div class="header-agile">
-              <h1>
-                <Link to="/" class="navbar-brand logo">
-                  
-                  Webhuset{" "}
-                  <span class="fa fa-user-secret" aria-hidden="true"></span>
-                </Link>
-              </h1>
-            </div>
-            <div class="nav_w3ls">
-              <nav>
-                <label for="drop" class="toggle mt-lg-0 mt-1">
-                  <span class="fa fa-bars" aria-hidden="true"></span>
-                </label>
-                <input type="checkbox" id="drop" />
-                <ul class="menu">
-                  <li class="mr-lg-3 mr-2 active">
-                    <Link to="/">Home</Link>
-                  </li>
-                  <li class="mr-lg-3 mr-2">
-                    <Link to="/about">About</Link>
-                  </li>
+// import "./Navbar.css"; // Uncomment if you have a corresponding CSS file
 
-                  <li class="mr-lg-3 mr-2 p-0">
-                    {/* <!-- First Tier Drop Down --> */}
-                    <label for="drop-2" class="toggle">
-                      Services{" "}
-                      <span class="fa fa-angle-down" aria-hidden="true"></span>{" "}
-                    </label>
-                    <a href="#">
-                      Services{" "}
-                      <span class="fa fa-angle-down" aria-hidden="true"></span>
-                    </a>
-                    <input type="checkbox" id="drop-2" />
-                    <ul class="inner-dropdown">
-                      <li>
-                        <Link to="/services">Services</Link>
-                      </li>
-                      <li>
-                        <Link to="/single">Blog</Link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="mr-lg-3 mr-2">
-                    <Link to="/gallery">Portfolio</Link>
-                  </li>
-                  <li class="mr-lg-3 mr-2">
-                    <Link to="/contact">Contact Us</Link>
-                  </li>
-                </ul>
-              </nav>
-            </div>
+const Navbar = () => {
+  return (
+    <header>
+      <div className="container">
+        <div className="header d-lg-flex justify-content-between align-items-center">
+          <div className="header-agile">
+            <h1>
+              <Link to="/" className="navbar-brand logo">
+                WebWizards{" "}
+                <span className="fa fa-user-secret" aria-hidden="true"></span>
+              </Link>
+            </h1>
+          </div>
+          <div className="nav_w3ls">
+            <nav>
+              <label htmlFor="drop" className="toggle mt-lg-0 mt-1">
+                <span className="fa fa-bars" aria-hidden="true"></span>
+              </label>
+              <input type="checkbox" id="drop" />
+              <ul className="menu">
+                <li className="mr-lg-3 mr-2 active">
+                  <Link to="/">Home</Link>
+                </li>
+                <li className="mr-lg-3 mr-2">
+                  <Link to="/about">About</Link>
+                </li>
+                <li className="mr-lg-3 mr-2">
+                  <Link to="/services">Services</Link>
+                </li>
+                <li className="mr-lg-3 mr-2">
+                  <Link to="/gallery">Portfolio</Link>
+                </li>
+                <li className="mr-lg-3 mr-2">
+                  <Link to="/contact">Contact Us</Link>
+                </li>
+              </ul>
+            </nav>
           </div>
         </div>
-      </header>
-    );
-  }
-}
+      </div>
+    </header>
+  );
+};
+
 export default Navbar;

@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-class Services extends Component {
-  render() {
+import React from "react";
+
+const Services = () => {
     return (
       <div>
         <section class="inner-page-banner" id="home"></section>
@@ -74,7 +74,7 @@ class Services extends Component {
                 <div class="test-info">
                   <p>
                     If you are looking for an exceptional digital product design,
-                    superior web content and amazing app, Webhus is the right option for you. We have
+                    superior web content and amazing app, WebWizards is the right option for you. We have
                     received incredible feedback upon the launch of our new
                     website.
                   </p>
@@ -174,6 +174,6 @@ class Services extends Component {
         </section>
       </div>
     );
-  }
-}
+  };
+
 export default Services;

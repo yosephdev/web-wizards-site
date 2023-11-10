@@ -1,7 +1,7 @@
-import React,{Component} from 'react';
-import {Link} from 'react-router-dom';
-class Contact extends Component{
-    render(){
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+const Contact = () => {
         return (
           <div>
             <section class="inner-page-banner" id="home"></section>
@@ -99,6 +99,6 @@ class Contact extends Component{
             </div>
           </div>
         );
-    }
-}
+  };
+
 export default Contact

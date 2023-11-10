@@ -1,7 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
 
-class Footer extends Component {
-  render() {
+const Footer = () =>{
     return (
       <footer class="footer-content">
         <div class="layer footer">
@@ -9,7 +8,7 @@ class Footer extends Component {
             <div class="row footer-top-inner-w3ls">
               <div class="col-lg-4 col-md-6 footer-top ">
                 <h2>
-                  <a href="index.html">Webhuset</a>
+                  <a href="index.html">WebWizards</a>
                 </h2>
                 <p class="my-3">
                   We are a group of dedicated software engineers who loves to
@@ -45,7 +44,7 @@ class Footer extends Component {
                   <hr />
                   <div class="last-w3ls-contact">
                     <p>
-                      <a href="mailto:example@email.com">info@webhuset.io</a>
+                      <a href="mailto:example@email.com">info@webwizards.io</a>
                     </p>
                   </div>
                   <div class="last-w3ls-contact my-2">
@@ -72,8 +71,8 @@ class Footer extends Component {
               </div>
             </div>
             <p class="copy-right-grids text-li text-center my-sm-4 my-4">
-              © 2020 Webhuset. All Rights Reserved | Design by
-              <a href="http://webhuset.io/"> Webhuset </a>
+              © 2023 WebWizards. All Rights Reserved | Design by
+              <a href="http://webhwizards.io/"> WebWizards </a>
             </p>
             <div class="w3ls-footer text-center mt-4">
               <ul class="list-unstyled w3ls-icons">
@@ -89,14 +88,9 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a href="#">
-                    <span class="fa fa-dribbble"></span>
+                    <span class="fa fa-linkedin"></span>
                   </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <span class="fa fa-vk"></span>
-                  </a>
-                </li>
+                </li>                
               </ul>
             </div>
             <div class="move-top text-right">
@@ -110,6 +104,6 @@ class Footer extends Component {
         </div>
       </footer>
     );
-  }
-}
+  };
+
 export default Footer;
