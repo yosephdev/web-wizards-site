@@ -2,7 +2,7 @@
 
 This repository contains the source code for a web development agency's multi-page website, built using React and React Router.
 
-![Website Screenshot](./public/assets/images/WebWizards-big.png)
+![Website Screenshot](./public/assets/images/webhuset-big.png)
 
 ## Features
 
